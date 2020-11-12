@@ -1,5 +1,9 @@
 # Utilise les bibliothèques logicielles NumPy et matplotlib our le traçage des courbes et les tableaux de valeurs
-# peut être éxécuté sans télécharements sur https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-m3g0d66j/lab
+# Peut être éxécuté sans télécharements sur https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-m3g0d66j/lab sinon télécharger Python
+# si possible avec Anaconda ou Miniconda
+# si Python est installé, tester `pip install numpy matplotlib`
+# si Miniconda est installé, tester `conda install numpy matplotlib`
+# si Anaconda est installé, numpy et matplotlib seront installés par défaut
 
 import numpy as np
 import matplotlib.pyplot as plt
